@@ -1,0 +1,35 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #85c6ca;
+  padding: 20px;
+}
+
+h2 {
+  color: #333;
+}
+
+input, textarea {
+  width: 300px;
+  padding: 5px;
+}
+
+button {
+  padding: 8px 15px;
+  background: #1292b5;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  background: white;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
